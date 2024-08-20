@@ -3,3 +3,7 @@ p,a,h1{
     font-family: 'Roboto';
     text-decoration: none;
 }
+
+button{
+    color: white;
+}
